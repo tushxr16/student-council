@@ -1,0 +1,31 @@
+.content {
+    margin: 50px 0px;
+}
+
+/*dp*/
+
+.dp {
+    font-family: 'Jost';
+    margin:auto;
+    margin-bottom: 20px;
+}
+
+.dp img {
+    width: 70%;
+    border-radius: 1000px;
+    margin: auto;
+}
+
+.dp .name {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.dp .desig {
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+}
