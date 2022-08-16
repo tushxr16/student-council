@@ -189,7 +189,7 @@
 			Copyrights © 2021-22 Student-Affairs IIT Ropar
 		</div>
 		<div class="col-md-6 cr-r">
-			Website Developed by <a href='mailto:2019eeb1210@iitrpr.ac.in' target='_blank' rel='noopener noreferrer' style="color:#666">Web Development Team</a>
+			Website Developed by <a href='https://github.com/software-community/student-council' target='_blank' rel='noopener noreferrer' style="color:#666">Web Development Team</a>
 		</div>
 	</div>
 </div>

@@ -3,6 +3,14 @@
 <html lang="en">
 
 <?php
+$_2022 = [
+    ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],
+    ['2022', 'Vedant Sati', 'President, SC', '9205209274','9205209274', 'https://www.linkedin.com/in/vedant-sati-895b71205/', 'president.sc@iitrpr.ac.in', 'https://www.instagram.com/vedant.sati/', '', '2020eeb1219'],
+    ['2022', 'Pankaj Suthar', 'General Secretary, BOSA', '6377668911','6377668911', 'https://www.linkedin.com/in/pankajjsuthar/', 'gs.sports@iitrpr.ac.in', 'https://www.instagram.com/pankajjsuthar/', '', '2020eeb1189'],
+    ['2022', 'Vinay Jain', 'General Secretary, BOHA', '6376763870','6376763870', 'https://www.linkedin.com/in/vinay-jain-930ba7241/', 'gs.hostel@iitrpr.ac.in', 'https://www.instagram.com/vinay_jain1/', '', '2020ceb1034'],
+    ['2022', 'Prachi', 'General Secretary, BOAA', '8527997951', '8527997951','https://www.linkedin.com/in/prachi-8a9597218/', 'gs.academic@iitrpr.ac.in', 'https://www.instagram.com/prachi_546/', '', '2020eeb1048'],
+    ['2022', 'Janmeet Singh Makkar', 'General Secretary, BOLA', '7307710111', '7307710111','https://www.linkedin.com/in/janmeet-s-makkar-1948071bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/janmeet_sm21/','', '2020csb1175']
+];
 $_2021 = [
     ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],
     ['2021', 'Raghav Verma', 'President, SC', '6378802115','6378802115', 'https://www.linkedin.com/in/raghav-verma-b20652193/', 'president.sc@iitrpr.ac.in', 'https://instagram.com/raghavverma_23?igshid=YmMyMTA2M2Y=', '', '2019meb1284'],
@@ -235,9 +243,9 @@ $_2018 = [
     if (isset($_GET['q']))
         $year = $_GET['q'];
     else
-        $year = 2021;
-    if (!($year == 2021 || $year == 2020 || $year == 2019 || $year == 2018))
-        $year = 2021;
+        $year = 2022;
+    if (!($year == 2022 || $year == 2021 || $year == 2020 || $year == 2019 || $year == 2018))
+        $year = 2022;
     ?>
     <!-- Main Content -->
     <div class="content">
@@ -245,6 +253,9 @@ $_2018 = [
             <div class="row">
                 <div class="year-cover">
                     <ul>
+                        <a href="office-bearers.php?q=2022">
+                            <li class="<?php if ($year == '2022') echo 'active'; ?>"><span>2022-23</span></li>
+                        </a>
                         <a href="office-bearers.php?q=2021">
                             <li class="<?php if ($year == '2021') echo 'active'; ?>"><span>2021-22</span></li>
                         </a>
@@ -262,7 +273,9 @@ $_2018 = [
             </div>
             <div class="team row">
                 <?php
-                if ($year == 2021)
+                if ($year == 2022)
+                    $record = $_2022;
+                else if ($year == 2021)
                     $record = $_2021;
                 else if ($year == 2020)
                     $record = $_2020;
