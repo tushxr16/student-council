@@ -7,7 +7,7 @@ $_2022 = [
     ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],
     ['2022', 'Vedant Sati', 'President, SC', '9205209274', '9205209274', 'https://www.linkedin.com/in/vedant-sati-895b71205/', 'president.sc@iitrpr.ac.in', 'https://www.instagram.com/vedant.sati/', '', '2020eeb1219'],
     ['2022', 'Pankaj Suthar', 'General Secretary, BOSA', '6377668911', '6377668911', 'https://www.linkedin.com/in/pankajjsuthar/', 'gs.sports@iitrpr.ac.in', 'https://www.instagram.com/pankajjsuthar/', '', '2020eeb1189'],
-    ['2022', 'Kasif Ansari', 'General Secretary, BOST', '7307710111', '7307710111', 'https://www.linkedin.com/in/kasif-ansari-3ab97b1bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/kasif9073/', '', '2020meb1290'],
+    ['2022', 'Kasif Ansari', 'General Secretary, BOST', '8130274938', '8130274938', 'https://www.linkedin.com/in/kasif-ansari-3ab97b1bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/kasif9073/', '', '2020meb1290'],
     ['2022', 'Yatin Saini', 'General Secretary, BOCA', '8727918195', '8727918195', 'https://www.linkedin.com/in/yatin-saini-7221521b6/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/yatinsaini_2470/', '', '2020meb1335'],
     ['2022', 'Janmeet Singh Makkar', 'General Secretary, BOLA', '7307710111', '7307710111', 'https://www.linkedin.com/in/janmeet-s-makkar-1948071bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/janmeet_sm21/', '', '2020csb1175'],
     ['2022', 'Vinay Jain', 'General Secretary, BOHA', '6376763870', '6376763870', 'https://www.linkedin.com/in/vinay-jain-930ba7241/', 'gs.hostel@iitrpr.ac.in', 'https://www.instagram.com/vinay_jain1/', '', '2020ceb1034'],
