@@ -5,19 +5,21 @@
 <?php
 $_2022 = [
     ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],
-    ['2022', 'Vedant Sati', 'President, SC', '9205209274','9205209274', 'https://www.linkedin.com/in/vedant-sati-895b71205/', 'president.sc@iitrpr.ac.in', 'https://www.instagram.com/vedant.sati/', '', '2020eeb1219'],
-    ['2022', 'Pankaj Suthar', 'General Secretary, BOSA', '6377668911','6377668911', 'https://www.linkedin.com/in/pankajjsuthar/', 'gs.sports@iitrpr.ac.in', 'https://www.instagram.com/pankajjsuthar/', '', '2020eeb1189'],
-    ['2022', 'Vinay Jain', 'General Secretary, BOHA', '6376763870','6376763870', 'https://www.linkedin.com/in/vinay-jain-930ba7241/', 'gs.hostel@iitrpr.ac.in', 'https://www.instagram.com/vinay_jain1/', '', '2020ceb1034'],
-    ['2022', 'Prachi', 'General Secretary, BOAA', '8527997951', '8527997951','https://www.linkedin.com/in/prachi-8a9597218/', 'gs.academic@iitrpr.ac.in', 'https://www.instagram.com/prachi_546/', '', '2020eeb1048'],
-    ['2022', 'Janmeet Singh Makkar', 'General Secretary, BOLA', '7307710111', '7307710111','https://www.linkedin.com/in/janmeet-s-makkar-1948071bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/janmeet_sm21/','', '2020csb1175']
+    ['2022', 'Vedant Sati', 'President, SC', '9205209274', '9205209274', 'https://www.linkedin.com/in/vedant-sati-895b71205/', 'president.sc@iitrpr.ac.in', 'https://www.instagram.com/vedant.sati/', '', '2020eeb1219'],
+    ['2022', 'Pankaj Suthar', 'General Secretary, BOSA', '6377668911', '6377668911', 'https://www.linkedin.com/in/pankajjsuthar/', 'gs.sports@iitrpr.ac.in', 'https://www.instagram.com/pankajjsuthar/', '', '2020eeb1189'],
+    ['2022', 'Kasif Ansari', 'General Secretary, BOST', '7307710111', '7307710111', 'https://www.linkedin.com/in/kasif-ansari-3ab97b1bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/kasif9073/', '', '2020meb1290'],
+    ['2022', 'Yatin Saini', 'General Secretary, BOCA', '8727918195', '8727918195', 'https://www.linkedin.com/in/yatin-saini-7221521b6/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/yatinsaini_2470/', '', '2020meb1335'],
+    ['2022', 'Janmeet Singh Makkar', 'General Secretary, BOLA', '7307710111', '7307710111', 'https://www.linkedin.com/in/janmeet-s-makkar-1948071bb/', 'gs.lit@iitrpr.ac.in', 'https://www.instagram.com/janmeet_sm21/', '', '2020csb1175'],
+    ['2022', 'Vinay Jain', 'General Secretary, BOHA', '6376763870', '6376763870', 'https://www.linkedin.com/in/vinay-jain-930ba7241/', 'gs.hostel@iitrpr.ac.in', 'https://www.instagram.com/vinay_jain1/', '', '2020ceb1034'],
+    ['2022', 'Prachi', 'General Secretary, BOAA', '8527997951', '8527997951', 'https://www.linkedin.com/in/prachi-8a9597218/', 'gs.academic@iitrpr.ac.in', 'https://www.instagram.com/prachi_546/', '', '2020eeb1048'],
 ];
 $_2021 = [
     ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],
-    ['2021', 'Raghav Verma', 'President, SC', '6378802115','6378802115', 'https://www.linkedin.com/in/raghav-verma-b20652193/', 'president.sc@iitrpr.ac.in', 'https://instagram.com/raghavverma_23?igshid=YmMyMTA2M2Y=', '', '2019meb1284'],
-    ['2021', 'Manik Thappa', 'General Secretary, BOSA', '9622040651','9622040651', 'https://www.linkedin.com/in/manik-thappa-5b775419b/', 'gs.sports@iitrpr.ac.in', 'https://instagram.com/manik_505?igshid=YmMyMTA2M2Y=', '', '2019meb1275'],
-    ['2021', 'Tanmay Gambhir', 'General Secretary, BOHA', '9650800725','9650800725', 'https://www.linkedin.com/in/tanmay-gambhir-7a10b61a1/', 'gs.hostel@iitrpr.ac.in', 'https://instagram.com/tanmay.gambhir?igshid=YmMyMTA2M2Y=', '', '2019meb1300'],
-    ['2021', 'Diksha', 'General Secretary, BOAA', '9416914467', '9416914467','https://www.linkedin.com/in/diksha-mittal-1445611a1/', 'gs.academic@iitrpr.ac.in', 'https://instagram.com/diksha._.mittal?igshid=YmMyMTA2M2Y=', '', '2019mcb1216'],
-    ['2021', 'Sanyukta Marandi', 'General Secretary, BOLA', '9304403561', '9304403561','https://www.linkedin.com/in/sanyukta-marandi-2724051b4/', 'gs.lit@iitrpr.ac.in', 'https://instagram.com/san_uke_ta?igshid=YmMyMTA2M2Y=','', '2019meb1332']
+    ['2021', 'Raghav Verma', 'President, SC', '6378802115', '6378802115', 'https://www.linkedin.com/in/raghav-verma-b20652193/', 'president.sc@iitrpr.ac.in', 'https://instagram.com/raghavverma_23?igshid=YmMyMTA2M2Y=', '', '2019meb1284'],
+    ['2021', 'Manik Thappa', 'General Secretary, BOSA', '9622040651', '9622040651', 'https://www.linkedin.com/in/manik-thappa-5b775419b/', 'gs.sports@iitrpr.ac.in', 'https://instagram.com/manik_505?igshid=YmMyMTA2M2Y=', '', '2019meb1275'],
+    ['2021', 'Tanmay Gambhir', 'General Secretary, BOHA', '9650800725', '9650800725', 'https://www.linkedin.com/in/tanmay-gambhir-7a10b61a1/', 'gs.hostel@iitrpr.ac.in', 'https://instagram.com/tanmay.gambhir?igshid=YmMyMTA2M2Y=', '', '2019meb1300'],
+    ['2021', 'Diksha', 'General Secretary, BOAA', '9416914467', '9416914467', 'https://www.linkedin.com/in/diksha-mittal-1445611a1/', 'gs.academic@iitrpr.ac.in', 'https://instagram.com/diksha._.mittal?igshid=YmMyMTA2M2Y=', '', '2019mcb1216'],
+    ['2021', 'Sanyukta Marandi', 'General Secretary, BOLA', '9304403561', '9304403561', 'https://www.linkedin.com/in/sanyukta-marandi-2724051b4/', 'gs.lit@iitrpr.ac.in', 'https://instagram.com/san_uke_ta?igshid=YmMyMTA2M2Y=', '', '2019meb1332']
 ];
 $_2020 = [
     ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],

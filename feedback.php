@@ -20,6 +20,7 @@
     <!-- Main Content -->
     <div class="content">
         <div class="row" style="width:100%; margin:auto;">
+            <!-- Mail sent to president.sc@iitrpr.ac.in -->
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVkkprAeN5lEQf_eVXTWAqMCa6G2W4sB_4WTrDUK_1MsKbjA/viewform?embedded=true" width="640" height="2000" frameborder="0" marginheight="0" marginwidth="0" style="margin:auto">Loading…</iframe>
         </div>
     </div>

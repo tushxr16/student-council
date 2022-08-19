@@ -107,7 +107,7 @@
 					<div class="row">
 						Indian Institute of Technology Ropar<br>
 						Rupnagar, Punjab - 140001, India<br><br>
-						Phone: +91 63788 02115<br>
+						Phone: +91 92052 09274<br>
 						Mail us at: president.sc@iitrpr.ac.in
 					</div>
 				</div>
@@ -130,7 +130,8 @@
 						<a href="http://www.iitrpr.ac.in/ug-section" target="_blank" rel="noopener noreferrer">UG Academics</a>
 					</div>
 					<div class="row">
-						<a href="https://www.iitrpr.ac.in/moodle/" target="_blank" rel="noopener noreferrer">Moodle</a></div>
+						<a href="https://www.iitrpr.ac.in/moodle/" target="_blank" rel="noopener noreferrer">Moodle</a>
+					</div>
 					<div class="row">
 						<a href="https://alumni.iitrpr.ac.in/" target="_blank" rel="noopener noreferrer">IRIAA</a>
 					</div>
