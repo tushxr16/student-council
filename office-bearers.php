@@ -27,7 +27,7 @@ $_2021 = [
 $_2020 = [
     ['year', 'name', 'desig', 'mobile', 'wa', 'li', 'gm', 'ig', 'fb', 'photo'],
     ['2020', 'Suvansh Bhargava', 'President, SC', '9119386140', '9119386140', 'https://www.linkedin.com/in/suvansh-bhargava-284a4216b/https://www.linkedin.com/in/raghav-verma-b20652193/', 'president.sc@iitrpr.ac.in', 'https://www.instagram.com/suvansh_b/', '', '2018ceb1032'],
-    ['2020', 'Piyush Pratap Singh', 'Research Representative', '7889265914', '7889265914', 'https://www.linkedin.com/in/piyush-pratap-singh/', 'phdrep@iitrpr.ac.in', 'https://www.instagram.com/piyushpratapsingh/', '', '2017chz0004'],
+    ['2021', 'Piyush Pratap Singh', 'Research Representative', '7889265914', '7889265914', 'https://www.linkedin.com/in/piyush-pratap-singh/', 'phdrep@iitrpr.ac.in', 'https://www.instagram.com/piyushpratapsingh/', '', '2017chz0004'],
     ['2020', 'Amit Kumar Chhipa', 'General Secretary, BOSA', '6377115038', '6377115038', 'https://www.linkedin.com/in/amit-kumar-chhipa-a70b15197', 'gs.sports@iitrpr.ac.in', 'https://www.instagram.com/invites/contact/?i=1sgkcqmjg1pbj&utm_content=3nsbaok', 'https://www.facebook.com/amit.chhip', '2018med1002'],
     ['2020', 'Anand Kumar', 'General Secretary, BOST', '9354518226', '9354518226', '', 'gs.tech@iitrpr.ac.in', 'https://www.instagram.com/anand.k_991/', '', '2018meb1210'],
     ['2020', 'Mohit Kasaniya', 'General Secretary, BOHA', '7976275446', '7976275446', 'https://www.linkedin.com/in/mohit-kasaniya-a68382176/', 'gs.hostel@iitrpr.ac.in', 'https://www.instagram.com/__choudhary5216/', 'https://www.facebook.com/mohit.kasaniya.75', '2018ceb1014'],
