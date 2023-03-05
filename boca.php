@@ -4,7 +4,6 @@
 
 <head>
     <title>Cultural | SC IIT Ropar</title>
-
     <?php include($root_path . 'assets/include/header-files.php'); ?>
 
 </head>
